@@ -31,6 +31,7 @@ const HomeScreen = () => {
             timer={5000}
             indicatorActiveColor="#EB5757"
           />
+          <Text>CHOOSE YOUR STORE</Text>
         </ScrollView>
       </SafeAreaProvider>
     </NativeBaseProvider>
